@@ -13,6 +13,6 @@ def second_smallest(arr):
         
     return second_smallest
 
-arr=[-10,-12,-18,-42,-6,-1]
+arr=[10,12,18,42,6,1]
 print(arr)
 print(second_smallest(arr))
